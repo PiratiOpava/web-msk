@@ -3,7 +3,6 @@ uid: ondrej.kotas
 name:     Ondřej Kotas  	# běžně používáné jméno
 fullname: Ondřej Kotas  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- pks
 
 img: people/ondrej-kotas.jpg   # 165 x 220
 description: Softwarový tester, automatizační specialista a člen předsednictva krajského sdružení        	# kratký popis, max 160 znaků
@@ -13,7 +12,6 @@ mob: +420 608 828 650
 profiles:              
   facebook: https://www.facebook.com/KRtek.tm
   wiki: https://wiki.pirati.cz/lide/ondrej_kotas	
-ordpks: 2  
 ---
 
 Ondřej Kotas (* 20. ledna 1992) pochází z Brna a do Pirátské strany vstoupil v listopadu 2011.
