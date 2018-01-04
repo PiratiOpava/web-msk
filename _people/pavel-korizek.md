@@ -5,9 +5,10 @@ fullname: Ing. Pavel Kořízek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - msk
 - pks
+- pms
 
 img: people/pavel-korizek.jpg   # 165 x 220
-description: místopředseda krajského sdružení Moravskoslezského kraje           	# kratký popis, max 160 znaků
+description: místopředseda krajského sdružení Moravskoslezského kraje a předseda místního sdružení Opavské Slezsko         	# kratký popis, max 160 znaků
 mail:
 - pavel.korizek@pirati.cz
 mob:			  
