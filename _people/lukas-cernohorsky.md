@@ -10,7 +10,6 @@ description: poslanec PSP ČR za Moravskoslezský kraj           	# kratký popi
 ordpsp: 1
 mail:
 - lukas.cernohorsky@pirati.cz
-mob:			  +420 601 573 955
 profiles:
   github:                
   facebook: 		http://www.facebook.com/lukas.cernohorsky
