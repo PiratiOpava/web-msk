@@ -15,7 +15,6 @@ profiles:
   facebook: https://www.facebook.com/karolina.kyselova
   twitter: 	
   flickr:
-  linkedin: https://www.linkedin.com/in/karolína-sadílková-020a8990
 ordkontakty: 2
 ---
 

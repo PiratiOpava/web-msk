@@ -29,3 +29,24 @@ Ve svém volném čase se věnuje společenskému tanci, kterému propadl před 
 ### Veřejná činnost
 
 - tiskový mluvčí a člen petičního výboru Petice za zachování tří ostravských historických budov, které tvoří celek zvaný [Ostravica-Textilia](http://ostravica-textilia.cz/)
+
+### Regionální poslanecká kancelář
+
+Nádražní 1248/16
+
+702 00 Moravská Ostrava a Přívoz
+
+GPS: 49.8359217N, 18.2867028E
+
+Kancelář je pro Vás otevřena:
+
+Každé pondělí 9:00 - 12:00 a 12:30 - 17:00
+
+Kdykoliv mimo tuto dobu je Vám k dispozici asistentka, s níž si můžete dohodnout schůzku v jiném termínu.
+
+### Asistentka:
+Zuzana Klusová
+
+E: zuzana.klusova@pirati.cz
+
+M: +420 737 480 813
