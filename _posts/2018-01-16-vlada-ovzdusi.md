@@ -5,7 +5,7 @@ title: „Výsměch lidem na Ostravsku! Hodnotí poslanec Černohorský snahu mi
 date: 2018-01-16T17:19:43.824Z
 author: Lukáš Černohorský
 authorId: lukas.cernohorsky
-image: /assets/img/posts/centrum.jpg
+image: /assets/img/posts/ostrava-ovzdusi.jpg
 description: Hodnotí poslanec Černohorský snahu ministra průmyslu pomoci Polsku dál znečišťovat ovzduší v kraji.
 tags: ostrava, ovzduší, polsko, vláda, limity
 ---
