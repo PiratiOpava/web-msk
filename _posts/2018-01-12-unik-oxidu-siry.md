@@ -7,7 +7,7 @@ author: David Witosz
 authorId: david.witosz
 image: /assets/img/posts/centrum.jpg
 description: Za včerejším masivním únikem oxidu síry jsou podle nich laguny Ostramo.
-tags: ostrava, ovzduší, laguny, moravská ostrava
+tags: ostrava ovzduší laguny moravská ostrava
 ---
  
 Ostrava, 11. ledna: Včera v Ostravě neuvěřitelným způsobem vzrostla hodinová koncentrace oxidu siřičitého v ovzduší. Obyvatelé centra Ostravy a městské části  Fifejdy skokové zhoršení smogové situace doslova pocítili na vlastní kůži, když se vzduchem šířil nepříjemný zápach. Oficiálně je zdroj tohoto enormního znečištění neznámý, s tím ale Piráti nesouhlasí. ”Cítíme jako velmi důležité upozornit na to, že podobná situace už tu jednou byla a rozhodně zdroj těchto emisí nezůstal neznámý. Myslíme si, že příčinou je opět s největší pravděpodobností problém s lagunami Ostramo,” prohlásil garant pro životní prostředí pirátské strany Jan Nezhyba.
