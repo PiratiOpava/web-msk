@@ -1,5 +1,5 @@
 ---
-title: O nás
+title: O nás | Pirátská strana
 layout: page
 rbar: people
 ---
