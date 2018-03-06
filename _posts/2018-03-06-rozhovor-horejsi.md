@@ -5,8 +5,8 @@ title: "Ostravský Stephen Hawking: „Chci na radnici bariérám navzdory!“"
 date: 2018-03-06T14:28:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
-image: /assets/img/posts/toxic.jpg
-description: ROZHOVOR s Jaroslavem Hořejším. Ostravský Stephen Hawking: Chci na radnici bariérám navzdory!
+image: /assets/img/posts/horejsi.jpg
+description: ROZHOVOR s Jaroslavem Hořejším. Ostravský Stephen Hawking. Chci na radnici bariérám navzdory!
 tags: rozhovor Hořejší Piráti bariéry komunálky
 ---
 
