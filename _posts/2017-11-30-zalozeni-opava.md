@@ -1,13 +1,12 @@
 ---
 layout: blog
 category: CLANKY
-title: Piráti založili na Opavsku a Bruntálsku místní sdružení
+title: 'Piráti založili na Opavsku a Bruntálsku místní sdružení'
 date: 2017-11-30T19:16:53.514Z
 author: Pavel Kořízek
 authorId: pavel.korizek
 image: /assets/img/posts/zalozeni_opava.jpg
-description: Piráti v Moravskoslezském kraji se rozrůstají.
-tags: Piráti místní sdružení Opava Bruntál
+tags: 'Piráti místní sdružení Opava Bruntál'
 ---
 
 Piráti v Moravskoslezském kraji se rozrůstají. Poslední listopadový
@@ -27,3 +26,5 @@ Ustavující schůze se zúčastnili také členové krajského předsednictva, 
 sdružení. „Sdílení zkušeností a spolupráce mezi jednotlivými buňkami je pro Piráty
 mimořádně důležitá,“ doplnil Michal Gill, pirátský koordinátor, který přijel do Opavy
 z Karviné.
+
+- - -

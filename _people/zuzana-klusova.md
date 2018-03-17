@@ -3,9 +3,9 @@ uid: zuzana.klusova
 name:     Zuzana Klusova      		# běžně používáné jméno
 fullname: Bc. Zuzana Klusová  		# jméno s tituly etc.
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
-- msk-contact
+- pks
 img: people/zuzana-klusova.jpg           # 165 x 220
-description: Asistentka v regionální poslanecké kanceláři Lukáše Černohorského a Ondřeje Polanského # kratký popis, max 160 znaků
+description: Asistentka v regionální poslanecké kanceláři Lukáše Černohorského a Ondřeje Polanského a místopředsedkyně krajského sdružení Moravskoslezského kraje # kratký popis, max 160 znaků
 mail:
 - zuzana.klusova@pirati.cz
 mob: +420 737 480 813
@@ -14,6 +14,7 @@ profiles:
   facebook:				
   twitter:
   linkedin:
+ordpks: 3  
 ---
 
 

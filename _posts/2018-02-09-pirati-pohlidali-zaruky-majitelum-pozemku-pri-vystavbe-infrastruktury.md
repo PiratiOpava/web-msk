@@ -1,16 +1,14 @@
 ---
 layout: blog
 category: CLANKY
-title: "Piráti pohlídali záruky majitelům pozemků při výstavbě infrastruktury"
+title: 'Piráti pohlídali záruky majitelům pozemků při výstavbě infrastruktury'
 date: 2018-02-09T18:49:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: /assets/img/posts/polansky.jpg
-description: Pirátská strana zajistila, že návrh novely zákona o urychlení výstavby klíčové infrastruktury nebude obsahovat paragrafy porušující vlastnická práva majitelů pozemků, na nichž se má stavět.
-tags: legislativa
+tags: 'legislativa'
 ---
-
-Praha, 9. února 2018 – Pirátská strana zajistila, že návrh novely zákona o urychlení výstavby klíčové infrastruktury nebude obsahovat paragrafy porušující vlastnická práva majitelů pozemků, na nichž se má stavět. Události posledních dvou měsíců však ukazují, že legislativní proces je třeba bedlivě hlídat před neúměrným tlakem lobbistů. Pirátům se nakonec podařilo z návrhu zákona odstranit dodatek, podle nějž by se měl zákon vztahovat i na stavby energetické infrastruktury, a tím významně omezovat práva vlastníků pozemků.
+Pirátská strana zajistila, že návrh novely zákona o urychlení výstavby klíčové infrastruktury nebude obsahovat paragrafy porušující vlastnická práva majitelů pozemků, na nichž se má stavět. Události posledních dvou měsíců však ukazují, že legislativní proces je třeba bedlivě hlídat před neúměrným tlakem lobbistů. Pirátům se nakonec podařilo z návrhu zákona odstranit dodatek, podle nějž by se měl zákon vztahovat i na stavby energetické infrastruktury, a tím významně omezovat práva vlastníků pozemků.
 
 Novela zmíněného zákona má nahradit původně zamýšlený nový zákon o liniových stavbách. Pirátský poslanec Ondřej Polanský, člen hospodářského výboru a podvýboru pro dopravu, upozornil na možná narušení vlastnických práv: 
 
@@ -26,3 +24,5 @@ Ondřej Polanský je odhodlaný bránit vlastnická práva i v dalších jednán
 
 Návrh, ke kterému se na konci ledna vyjádřila vláda pozitivně, označil za klíčový i premiér v demisi Andrej Babiš. Do prvního čtení půjde na příštím zasedání Sněmovny.
 
+
+- - -

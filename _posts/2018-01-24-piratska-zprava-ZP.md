@@ -1,22 +1,17 @@
 ---
 layout: blog
 category: CLANKY
-title: „Ovzduší v kraji se nelepší, opakují se úniky jedů do vody“
+title: 'Ovzduší v kraji se nelepší, opakují se úniky jedů do vody'
 date: 2018-01-24T07:27:43.824Z
 author: Jan Nezhyba
 authorId: jan.nezhyba
 image: /assets/img/posts/ostrava-ovzdusi.jpg
-description: Pirátská zpráva o životním prostředí v MSK v roce 2016.
-tags: životní prostředí msk zpráva
+tags: 'životní prostředí msk zpráva'
 ---
 
+Piráti komentují zprávu ministerstva ke stavu životního prostředí. To je ale se stavem spokojeno. 
 
-
-### Piráti komentují zprávu ministerstva ke stavu životního prostředí.
-
-### To je ale se stavem spokojeno.
-
-### Pirátská zpráva o životním prostředí v MSK v roce 2016
+**Pirátská zpráva o životním prostředí v MSK v roce 2016**
 
 (komentovaný výtah z dat obsažených v oficiální <a href="{{'https://www.mzp.cz/cz/news_171130_ZOZP' | absolute_url }}">Zprávě o životním prostředí 2016 Ministerstva ŽP</a>)
 
@@ -42,3 +37,6 @@ Jedinou pozitivní zprávou je, že **produkce směsných komunálních odpadů 
 **„Podle Pirátů by bylo namístě takovéto zprávy pro politiky i občany interpretovat i v souvislostech, které jinak neznalému čtenáři „úspěšně&quot; unikají, abychom nenabývali mylného dojmu, že vše je v naprostém pořádku. Naopak náš kraj čeká obří strastiplná a dlouhá cesta ke zlepšení všech složek životního prostředí, které byly průmyslovou a lidskou činností doposud zdárně devastovány. Účelem tohoto hodnocení není lidi vyděsit, ale probudit v nich patřičný zájem o svůj život a prostředí, v němž žijeme a společně všichni sdílíme.&quot;** shrnuje pirátský Garant programového bodu životní prostředí Jan Nezhyba.
 
 Zde najdete úplnou verzi <a href="{{'/assets/pdf/Final_Zprava_o_ZP_MSK_9_1_2018.pdf' | relative_url }}">Stínové pirátské zprávy</a> a také podrobné <a href="{{'/assets/pdf/IRZ_Tabulky_vyhodnoceni-2016-MSK.pdf' | relative_url }}">tabulky TOP znečišťovatelů a vybraných skupin látek v MSK</a> dle hlášení v IRZ za rok 2016.
+
+
+- - -

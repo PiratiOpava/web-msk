@@ -3,11 +3,10 @@ uid: lukas.cernohorsky
 name:     Lukáš Černohorský  	# běžně používáné jméno
 fullname: Ing. Lukáš Černohorský  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- moravskoslezsko
 - psp
 img: people/lukas-cernohorsky.jpg   # 165 x 220
 description: poslanec PSP ČR za Moravskoslezský kraj           	# kratký popis, max 160 znaků
-ordpsp: 1
+
 mail:
 - lukas.cernohorsky@pirati.cz
 profiles:
@@ -15,6 +14,7 @@ profiles:
   facebook: 		http://www.facebook.com/lukas.cernohorsky
   twitter: 		  
   flickr:
+ordpsp: 1
 ---
 
 Lukáš Černohorský (\*1984) se narodil v Dlouhé Lhotě u Příbrami. Odkud se přestěhoval do Ostravy.

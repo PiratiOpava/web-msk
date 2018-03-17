@@ -1,13 +1,12 @@
 ---
 layout: blog
 category: CLANKY
-title: "První Pirát na půdě OSN je z Ostravy: Ondra Polanský promluvil k migraci"
+title: 'První Pirát na půdě OSN je z Ostravy: Ondra Polanský promluvil k migraci'
 date: 2018-03-01T10:18:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: /assets/img/posts/polansky-osn-1.jpg
-description: První Pirát na půdě OSN je z Ostravy. Ondra Polanský promluvil k migraci.
-tags: Polanský OSN NewYork migrace
+tags: 'Polanský OSN NewYork migrace'
 ---
 
 „New York, New York!“ Známý hit Franka Sinatry si jistě připomněl Ondřej Polanský, poslanec Pirátské strany za Moravskoslezský kraj, po svém výstupu na plénu OSN v New Yorku. Svou první velkou zahraniční cestu v pozici předsedy Stálé delegace Parlamentu do Meziparlamentní unie doprovodil projevem na téma migrace. Tato problematika vyvolává kontroverze nejenom v Evropě. Nicméně jak řekl Ondřej: "Opravdový život začíná, když vystoupíš ze své komfortní zóny."
@@ -42,5 +41,6 @@ Překlad projevu, který Ondřej Polanský přednesl v OSN:
 
 ![alt text]({{ '/assets/img/posts/polansky-osn-3.jpg' | relative_url }} "Pirát Ondřej Polanský v OSN."){: .thumbnail}
 
+- - -
 
 

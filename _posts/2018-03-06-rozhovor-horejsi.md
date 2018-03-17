@@ -1,20 +1,16 @@
 ---
 layout: blog
 category: CLANKY
-title: "Ostravský Stephen Hawking: „Chci na radnici bariérám navzdory!“"
+title: 'Ostravský Stephen Hawking: „Chci na radnici bariérám navzdory!“'
 date: 2018-03-06T14:28:23.824Z
 author: Zuzana Klusová
 authorId: zuzana.klusova
 image: /assets/img/posts/horejsi.jpg
-description: ROZHOVOR s Jaroslavem Hořejším. Ostravský Stephen Hawking. Chci na radnici bariérám navzdory!
-tags: rozhovor Hořejší Piráti bariéry komunálky
+tags: 'rozhovor Hořejší Piráti bariéry komunálky'
 ---
 
-**_ROZHOVOR s Jaroslavem Hořejším:_**
-
-**_Ostravský Stephen Hawking: „Chci na radnici bariérám navzdory!“_**
-
-**Jaroslav Hořejší je neuvěřitelně akční muž. Pracuje jako programátor, k tomu si dokončuje doktorát na Vysoké Škole Báňské – Technická Univerzita Ostrava, kde tvoří metodiku používání hardwarových i softwarových nástrojů pro lidi s postižením. Baví ho jazyky. Umí jich už celou škálu. Angličtinu, němčinu, italštinu, teď koketuje s ruštinou a španělštinou. Teď chce za Piráty na radnici!**
+ROZHOVOR s Jaroslavem Hořejším:  
+Jaroslav Hořejší je neuvěřitelně akční muž. Pracuje jako programátor, k tomu si dokončuje doktorát na Vysoké Škole Báňské – Technická Univerzita Ostrava, kde tvoří metodiku používání hardwarových i softwarových nástrojů pro lidi s postižením. Baví ho jazyky. Umí jich už celou škálu. Angličtinu, němčinu, italštinu, teď koketuje s ruštinou a španělštinou. Teď chce za Piráty na radnici!**
 
 **Jarku, jak to všechno zvládáš ty a tvá rodina. Nejen teď, ale po celou dobu? Školu, práci, studium jazyků, politiku? Máš pocit, že tě tvůj handicap vůbec nějak omezuje? Vypadá to, že toho zvládáš víc, než si dokáže představit spousta lidí bez handicapu.**
 
@@ -53,3 +49,5 @@ Moje volební místnost v místní radnici vlastně je bezbariérová, akorát 
 **Co máš tedy krom kandidatury do zastupitelstva ještě v plánu?**
 
 Chtěl bych s Piráty zorganizovat akci Na vozíku Ostravou! Kdy by si „chodící“ mohli zkusit projet nějaký úsek na vozíčku a poznali, jaké to je. Já se totiž většinou setkávám s velkou ochotou lidí pomoci, většina ale vlastně neví jak. Kde vozík uchopit, jak mě nadzvednout. Tahle akce by měla vytvořit lepší pouto mezi zdravými a námi s handicapem. Zároveň by to byla fajn společenská událost a myslím, že bychom si užili i spoustu zábavy. Ono se to nesmí brát moc vážně, humor je asi tím nejlepším způsobem, jak překonat bariéry!
+
+- - -

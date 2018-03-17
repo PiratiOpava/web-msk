@@ -1,5 +1,4 @@
 ---
-title: Kontakt | Česká pirátská strana | Moravskoslezský kraj
 layout: default
 ---
 
@@ -12,7 +11,7 @@ layout: default
           <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <!--<link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">-->
             <header class="c-BasicPage-header c-BasicPage-header--horizontal">
-              <h1 itemprop="headline" class="c-BasicPage__title"> Kontaktní informace </h1>
+              <h1 itemprop="headline" class="c-BasicPage__title"> Obecné kontaktní informace </h1>
             </header>
             <div class="o-section-block o-section-block--fill">
               <div class="u-cf">
@@ -151,8 +150,8 @@ layout: default
                     <div class="o-media o-media--top">
                       <div class="o-media__body">
                         <p>
-                          <strong>poslanec Lukáš Černohorský</strong>
-						  <br><strong>poslanec Ondřej Polanský</strong></p>
+                          poslanec <strong><a href="{{'lide/lukas-cernohorsky/' | relative_url}}">Lukáš Černohorský</a></strong>
+						  <br>poslanec <strong><a href="{{'lide/ondrej-polansky/' | relative_url}}">Ondřej Polanský</a></strong></p>
                         <p> Nádražní 1248/16
                           <br>702 00 Moravská Ostrava a Přívoz
 						  <br></p>
@@ -163,23 +162,13 @@ layout: default
 						  <br>
 						  <br>Kdykoliv mimo tuto dobu je Vám k dispozici asistentka, s níž si můžete dohodnout schůzku v jiném termínu.</p>
                         <p> <strong>Asistentka:</strong>
-                          <br>Zuzana Klusová
+                          <br><a href="{{'lide/zuzana-klusova/' | relative_url}}">Zuzana Klusová</a>
 						  <br>+420 737 480 813
 						  <br><a href="mailto:zuzana.klusova@pirati.cz">zuzana.klusova@pirati.cz</a>
 						  </p>
                       </div>
                     </div>
-                  </div>
-                  <div class="c-BasicPage-content">
-                    <h2>Další kontakty</h2>
-                    <p> Další osoby naleznete na stránce
-                      <a href="{{'/lide/' | relative_url}}">Lidé</a>. </p>
-                    <p> Setkat se s námi můžete v některém z
-                      <a href="#">Pirátských míst</a> nebo
-                      <a href="{{'pripoj-se/kalendar/' | relative_url }}">pirátské akci</a>. </p>
-                    <p> Pro pomoc a radu v odborných otázkách kopírovacího monopolu či jiných se obracejte na
-                      <a href="https://forum.pirati.cz/verejna-poradna-f795/">Pirátskou poradnu</a> na fóru. </p>
-                  </div>
+                  </div>				  
                 </div>
               </div>
             </div>
@@ -198,20 +187,26 @@ layout: default
         <div class="o-section-block">
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
-              <h2>Kontakt Moravskoslezský kraj</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'msk-contact'"  | sort:"ordkontakty" %}
-                {% include people/list-2col.html param=team %}
-              <br>
-              <h2>Kontakt pro média</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'mo-contact'"  | sort:"ordkontakty" %}
-                {% include people/list-2col.html param=team %}
-              <br>
-              <h2>Kontakt pro veřejnost</h2>
-                {% assign team = site.people | where_exp:"item","item.categories contains 'ao-contact'" | sort:"ordkontakty" %}
-                {% include people/list-2col.html param=team %}
-            </div>
+              <h2>Lokální kontakt pro média</h2>
+              <div class="large-6 small-12 columns end o-section-mediumdown-divided-small">
+                  <div class="o-media o-media--top">
+                    <div class="o-media__image o-media__image--lgspace">
+                      <img src="{{ 'pavel-korizek.jpg' | prepend: '/assets/img/people/' | relative_url}}" alt="Pavel Kořízek"> </div>
+                    <div class="o-media__body">
+                      <h2 class="o-media__headline">
+                        <a href="{{'lide/pavel-korizek/' | relative_url}}">Pavel Kořízek</a>
+                      </h2>
+                      <p>Předseda krajského sdružení
+                      </p>
+                      <p> +420 777 237 635 <br>
+                        <a href="mailto:pavel.korizek@pirati.cz">pavel.korizek@pirati.cz</a>
+                        <br> </p>
+                    </div>
+                  </div>
+                </div>
           </div>
         </div>
+		</div>
       </div>
     </section>
   </div>

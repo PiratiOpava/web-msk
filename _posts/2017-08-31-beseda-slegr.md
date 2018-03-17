@@ -1,13 +1,12 @@
 ---
 layout: blog
 category: CLANKY
-title: "Vysokorychlostní železnice - příležitost pro ČR?"
+title: 'Vysokorychlostní železnice - příležitost pro ČR?'
 date: 2017-09-10T18:41:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: /assets/img/posts/vrt.jpg
-description: Přednáška a beseda s předním českým odborníkem na VRT (vysokorychlostní trať).
-tags: beseda vysokorychlostní železnice vrt Šlégr
+tags: 'beseda vysokorychlostní železnice vrt Šlégr'
 ---
 
 Přednáška a beseda s předním českým odborníkem na VRT
@@ -23,3 +22,6 @@ Datum: 26.září 2017
 Čas: 18:00
 
 Vstupné je zdarma.
+
+
+- - -

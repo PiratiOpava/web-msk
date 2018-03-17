@@ -1,8 +1,6 @@
 ---
-title: Naši lidé | Pirátská strana | Moravskoslezský kraj
 layout: default
 ---
-{% include submenu.html %}
 
 <div class="row o-section-block o-section-block--divided">
   <div class="medium-12 large-12 columns">
@@ -12,6 +10,7 @@ layout: default
           <div class="c-BasicPage">
             <div class="c-BasicPage-content">
               <div class="jmk-candidates">
+				
                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
                     <a href="#psp" class="c-simple-accordion-title">Naši poslanci</a>
@@ -50,12 +49,21 @@ layout: default
                 </ul>
                 <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
                   <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                    <a href="#pms" class="c-simple-accordion-title is-active">Krajský koordinátor</a>
+                    <div id="pms" class="c-simple-accordion-content" data-tab-content="">
+                      {% assign team = site.people | where_exp:"item","item.categories contains 'koordinator'" | sort:"ordkoord" %}
+                      {% include people/list-2col.html param=team %}
+                    </div>
+                  </li>
+                </ul>				
+                <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                  <li class="c-simple-accordion-item is-active" data-accordion-item="">
                     <a href="#clenove" class="c-simple-accordion-title">Naši členové</a>
                     <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
                       <a href="https://forum.pirati.cz/ks-moravskoslezsky-kraj-g34.html">Seznam členů Krajského sdružení Moravskoslezského kraje na Fóru Pirátské strany</a>
                     </div>
                   </li>
-                </ul>
+                </ul>				
 
               </div>
             </div>

@@ -1,13 +1,12 @@
 ---
 layout: blog
 category: CLANKY
-title: "Úspěšná beseda s Miloslavou Pošvářovou"
+title: 'Úspěšná beseda s Miloslavou Pošvářovou'
 date: 2017-03-07T08:59:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: /assets/img/posts/posvarova2.jpg
-description: Proběhla beseda na kontroverzní téma kvality českých silnic a dálnic.
-tags: beseda doprava kontrolní činnost Pošvářová
+tags: 'beseda doprava kontrolní činnost Pošvářová'
 ---
 
 V pondělí 6.3.2017 proběhla ve Staré aréně v Ostravě beseda „Důvěřuj, ale prověřuj“ o kontrolní činnosti ve výstavbě s Ing. Miloslavou Pošvářovou, Ph.D. Tématem byla kvalita, či spíše nekvalita dopravních staveb v ČR.
@@ -46,3 +45,5 @@ Shrnutí:
 Nejčastější problémy, které pozorujeme na českých komunikacích ještě v době trvání záruky jsou trhliny, koroze, přerušení betonáže, průsaky, zatékání, nefunkční izolace, zvlnění vozovky nebo boule.
 
 „Člověk není neomylný a při složitosti dnešních staveb nelze vyloučit všechny problémy na 100%. Faktem však zůstává, že investor (stát) mnohdy rezignuje na kontrolní činnost, a dostává se tak do vleku zhotovitelů, čímž trpí kvalita i bezpečnost“ dodává Ing. David Witosz, geodet, a člen ostravského sdružení Pirátské strany. „A dokud se nestane tragédie jako ve Studénce, tak se většinou nic neděje. Znamená to“jen“ hodně vyhozených peněz daňových poplatníků v toliko omílaných vícepracích, pozáručních opravách a zvýšených nákladech na následnou údržbu“ dodává Witosz.
+
+- - -

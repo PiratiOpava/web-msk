@@ -1,17 +1,16 @@
 ---
 layout: blog
 category: CLANKY
-title: „Hrozí další roky čekání, prodražování a riziko ztráty peněz od státu! Ostravští Piráti prověřili tvrzení radního Semeráka ohledně Místecké“
+title: 'Hrozí další roky čekání, prodražování a riziko ztráty peněz od státu! Ostravští Piráti prověřili tvrzení radního Semeráka ohledně Místecké'
 date: 2018-01-18T11:37:43.824Z
 author: Ondřej Polanský
 authorId: ondrej.polansky
 image: /assets/img/posts/mistecka.jpg
-description: Dokončení Místecké se dále odkládá. Vedení města Ostrava nesouhlasilo s technickým řešením odhlučnění, které navrhlo ŘSD.
-tags: ostrava moap místecká doprava
+tags: 'ostrava moap místecká doprava'
 ---
 
 
-Ostrava, 18. 1. 2018: Dokončení Místecké se dále odkládá. Vedení města Ostrava nesouhlasilo s technickým řešením odhlučnění, které navrhlo ŘSD. Podle Pirátů to bude znamenat dalších několik let čekání na dokončení dopravní stavby, kterou Ostrava zoufale potřebuje, a také její výrazné prodražení. Navíc stát se stavbou počítá, ale pouze v rozpočtu pro rok 2018, co bude pak, nikdo nezaručí. Radní pro dopravu Lukáš Semerák (Ostravak) na posledním zasedání zastupitelstva ostravské čtvrti Moravská Ostrava a Přívoz pronesl k tématu Místecké  několik překvapivých výroků. Pirátům se prezentovaný postoj radního nezdál, a tak si je ověřili přímo u ministra.
+Dokončení Místecké se dále odkládá. Vedení města Ostrava nesouhlasilo s technickým řešením odhlučnění, které navrhlo ŘSD. Podle Pirátů to bude znamenat dalších několik let čekání na dokončení dopravní stavby, kterou Ostrava zoufale potřebuje, a také její výrazné prodražení. Navíc stát se stavbou počítá, ale pouze v rozpočtu pro rok 2018, co bude pak, nikdo nezaručí. Radní pro dopravu Lukáš Semerák (Ostravak) na posledním zasedání zastupitelstva ostravské čtvrti Moravská Ostrava a Přívoz pronesl k tématu Místecké  několik překvapivých výroků. Pirátům se prezentovaný postoj radního nezdál, a tak si je ověřili přímo u ministra.
 
 „Pusťte nás na ně!“ myslíme vážně. Tvrzení radního Semeráka ohledně odkladu dostavby Místecké jsme si pečlivě zaznamenali a poslanec Ondřej Polanský, který se dopravou nejen v Ostravě dlouhodobě zabývá, se na ně dotázal přímo ministra dopravy na schůzce dne 9. ledna. Na vznesené dotazy nám odpověděl náměstek ministra,“ vysvětluje David Witosz, pirátský garant pro oblast dopravy. Podle výsledků studie EIA, kterou si nechalo zpracovat ŘSD, je optimálním řešením odhlučnění Místecké výstavba 14 metrů vysoké skleněné stěny. 
 
@@ -49,3 +48,5 @@ variantě zahloubení)? Stačí velmi hrubý odhad.
 Ministerstvo dopravy: Cca 2 roky. (termín ukončení akce povrchové varianty byl plánován na 12/2022, zdroj: schválený rozpočet SFDI na rok 2018) 
 
 „Doufáme, že občané i naši zastupitelé si dokážou na základě uvedených informací udělat obrázek sami. Ačkoliv Piráti nemají v zastupitelstvu MOaP prozatím žádné zastoupení, snažíme se i tak plnit funkci hlídacího psa v duchu hesla Pusťte nás na ně! Věříme, že naše snaha prověřovat informace povede ke zvýšení kvality diskuse na zasedáních zastupitelstva,“ dodává David Witosz.
+
+- - -

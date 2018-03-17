@@ -1,17 +1,16 @@
 ---
 layout: blog
 category: CLANKY
-title: „Výsměch lidem na Ostravsku! Hodnotí poslanec Černohorský snahu ministra průmyslu pomoci Polsku dál znečišťovat ovzduší v kraji.“
+title: 'Výsměch lidem na Ostravsku! Hodnotí poslanec Černohorský snahu ministra průmyslu pomoci Polsku dál znečišťovat ovzduší v kraji'
 date: 2018-01-16T17:19:43.824Z
 author: Lukáš Černohorský
 authorId: lukas.cernohorsky
 image: /assets/img/posts/ostrava-ovzdusi.jpg
-description: Hodnotí poslanec Černohorský snahu ministra průmyslu pomoci Polsku dál znečišťovat ovzduší v kraji.
-tags: ostrava ovzduší polsko vláda limity
+tags: 'ostrava ovzduší polsko vláda limity'
 ---
 
 
-Ostrava, 16. ledna 2018 – „Výsměch všem lidem na Ostravsku, kteří dlouhodobě dýchají vzduch znečištěný daleko nad rámec zákonných limitů! A to včetně primátora a hejtmana z řad ANO,“ tak pirátský poslanec Lukáš Černohorský označuje snahu nového ministra průmyslu Tomáše Hünera. Ten chce zítra na vládě lobbovat za to, abychom se přidali k žalobě Polska proti přísnějším limitům znečištění ovzduší. Ty Evropská unie schválila v loňském roce. Polsku přitom před nedávnem konečně skončila výjimka, která našim severním sousedům umožňovala vypouštět více škodlivin do ovzduší než podniky u nás. I nové přísnější limity EU jsou přitom pořád mírnější než například v Číně.
+„Výsměch všem lidem na Ostravsku, kteří dlouhodobě dýchají vzduch znečištěný daleko nad rámec zákonných limitů! A to včetně primátora a hejtmana z řad ANO,“ tak pirátský poslanec Lukáš Černohorský označuje snahu nového ministra průmyslu Tomáše Hünera. Ten chce zítra na vládě lobbovat za to, abychom se přidali k žalobě Polska proti přísnějším limitům znečištění ovzduší. Ty Evropská unie schválila v loňském roce. Polsku přitom před nedávnem konečně skončila výjimka, která našim severním sousedům umožňovala vypouštět více škodlivin do ovzduší než podniky u nás. I nové přísnější limity EU jsou přitom pořád mírnější než například v Číně.
  
 > „Průmyslová lobby už nemůže být nadřazena nad zdraví lidí. Piráti nejen v Ostravě několik let bojují za zlepšení ovzduší a upozorňují na to, že se situaci nedaří zlepšit i přes stovky milionu nalitých do ekologizace průmyslových závodů. Jediným vysvětlením kroků nového ministra je jeho dřívější působení v ČEZu a Elektrárně Dětmarovice. Jelikož se Tomáš Hüner narodil v Ostravě, nemůže své kroky svést ani na neznalost situace s ovzduším na Ostravsku,“ shrnuje postoj Pirátů Černohorský.
  
@@ -28,3 +27,5 @@ Argumenty odpůrců zpřísňování limitů jsou pouze ekonomického rázu. Min
 - Zuzana Klusová, PR koordinátorka pro MSK, zuzana.klusova@pirati.cz , tel. 737 480 813
 
  
+
+- - -
