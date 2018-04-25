@@ -1,4 +1,3 @@
-
 ---
 layout: blog
 category: CLANKY
@@ -9,7 +8,6 @@ authorId: zuzana.klusova
 image: /assets/img/posts/cernohorsky-lukas.jpg
 tags: 'kauzy okd'
 ---
-
  
 6 miliard Kč si vyplatili akcionáři OKD v čele s Bakalou v roce 2012 na dividendách. Už o dva roky později představenstvo muselo vědět, že těžařský kolos směřuje ke krachu. To potvrdil na včerejším zasedání vyšetřovací komise k OKD insolvenční správce Lee Louda. Komise vyslechla také Romana Macháčka ze sdružení BYTYOKD.cz, který hájí zájmy nájemníků čekajících na slíbený prodej bytového fondu. Macháček upozornil na střet zájmů tehdejšího vysoce postaveného zaměstnance BIS Jana Procházky. Právě ten měl v BIS na starost ochranu ekonomických zájmů státu a měl ohlídat prodej klíčových státních podniků. Procházka měl vazby na Karbon Invest a po privatizaci se stal jeho bezpečnostním ředitelem. Podle Macháčka existuje důvodné podezření, že Evropská komise při prošetřování nedovolené podpory nedostala od státu pravdivé informace a řízení by se mělo obnovit.
  
